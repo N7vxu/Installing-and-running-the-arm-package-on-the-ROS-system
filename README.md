@@ -62,7 +62,7 @@ $ rosdep update
 
 #  Create a workspace by using catkin_make
 
-$ sudo apt-get install ros-noetic-catkin
+$ sudo apt-get install ros-melodic-catkin
 
 $ mkdir -p ~/catkin_ws/src
 
